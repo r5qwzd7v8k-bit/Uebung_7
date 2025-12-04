@@ -23,7 +23,7 @@ public void setName(String name) {
 this.name = name;
 }
 
-
+ 
 public void setGebJahr(int gebJahr) {
 this.gebJahr = gebJahr;
 }
